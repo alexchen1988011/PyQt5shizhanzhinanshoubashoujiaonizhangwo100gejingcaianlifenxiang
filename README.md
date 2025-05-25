@@ -1,0 +1,1 @@
+# PyQt5shizhanzhinanshoubashoujiaonizhangwo100gejingcaianlifenxiang
